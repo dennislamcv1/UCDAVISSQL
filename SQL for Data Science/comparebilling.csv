@@ -1,0 +1,413 @@
+BillingCity,City
+Stuttgart,Stuttgart
+Stuttgart,Stuttgart
+Stuttgart,Stuttgart
+Stuttgart,Stuttgart
+Stuttgart,Stuttgart
+Stuttgart,Stuttgart
+Stuttgart,Stuttgart
+Oslo,Oslo
+Oslo,Oslo
+Oslo,Oslo
+Oslo,Oslo
+Oslo,Oslo
+Oslo,Oslo
+Oslo,Oslo
+Brussels,Brussels
+Brussels,Brussels
+Brussels,Brussels
+Brussels,Brussels
+Brussels,Brussels
+Brussels,Brussels
+Brussels,Brussels
+Edmonton,Edmonton
+Edmonton,Edmonton
+Edmonton,Edmonton
+Edmonton,Edmonton
+Edmonton,Edmonton
+Edmonton,Edmonton
+Edmonton,Edmonton
+Boston,Boston
+Boston,Boston
+Boston,Boston
+Boston,Boston
+Boston,Boston
+Boston,Boston
+Boston,Boston
+Frankfurt,Frankfurt
+Frankfurt,Frankfurt
+Frankfurt,Frankfurt
+Frankfurt,Frankfurt
+Frankfurt,Frankfurt
+Frankfurt,Frankfurt
+Frankfurt,Frankfurt
+Berlin,Berlin
+Berlin,Berlin
+Berlin,Berlin
+Berlin,Berlin
+Berlin,Berlin
+Berlin,Berlin
+Berlin,Berlin
+Paris,Paris
+Paris,Paris
+Paris,Paris
+Paris,Paris
+Paris,Paris
+Paris,Paris
+Paris,Paris
+Bordeaux,Bordeaux
+Bordeaux,Bordeaux
+Bordeaux,Bordeaux
+Bordeaux,Bordeaux
+Bordeaux,Bordeaux
+Bordeaux,Bordeaux
+Bordeaux,Bordeaux
+Dublin,Dublin
+Dublin,Dublin
+Dublin,Dublin
+Dublin,Dublin
+Dublin,Dublin
+Dublin,Dublin
+Dublin,Dublin
+London,London
+London,London
+London,London
+London,London
+London,London
+London,London
+London,London
+Mountain View,Mountain View
+Mountain View,Mountain View
+Mountain View,Mountain View
+Mountain View,Mountain View
+Mountain View,Mountain View
+Mountain View,Mountain View
+Mountain View,Mountain View
+Redmond,Redmond
+Redmond,Redmond
+Redmond,Redmond
+Redmond,Redmond
+Redmond,Redmond
+Redmond,Redmond
+Redmond,Redmond
+Cupertino,Cupertino
+Cupertino,Cupertino
+Cupertino,Cupertino
+Cupertino,Cupertino
+Cupertino,Cupertino
+Cupertino,Cupertino
+Cupertino,Cupertino
+Reno,Reno
+Reno,Reno
+Reno,Reno
+Reno,Reno
+Reno,Reno
+Reno,Reno
+Reno,Reno
+Madison,Madison
+Madison,Madison
+Madison,Madison
+Madison,Madison
+Madison,Madison
+Madison,Madison
+Madison,Madison
+Halifax,Halifax
+Halifax,Halifax
+Halifax,Halifax
+Halifax,Halifax
+Halifax,Halifax
+Halifax,Halifax
+Halifax,Halifax
+Edinburgh ,Edinburgh 
+Edinburgh ,Edinburgh 
+Edinburgh ,Edinburgh 
+Edinburgh ,Edinburgh 
+Edinburgh ,Edinburgh 
+Edinburgh ,Edinburgh 
+Edinburgh ,Edinburgh 
+Sidney,Sidney
+Sidney,Sidney
+Sidney,Sidney
+Sidney,Sidney
+Sidney,Sidney
+Sidney,Sidney
+Sidney,Sidney
+Santiago,Santiago
+Santiago,Santiago
+Santiago,Santiago
+Santiago,Santiago
+Santiago,Santiago
+Santiago,Santiago
+Santiago,Santiago
+Bangalore,Bangalore
+Bangalore,Bangalore
+Bangalore,Bangalore
+Bangalore,Bangalore
+Bangalore,Bangalore
+Bangalore,Bangalore
+São Paulo,São Paulo
+São Paulo,São Paulo
+São Paulo,São Paulo
+São Paulo,São Paulo
+São Paulo,São Paulo
+São Paulo,São Paulo
+São Paulo,São Paulo
+Yellowknife,Yellowknife
+Yellowknife,Yellowknife
+Yellowknife,Yellowknife
+Yellowknife,Yellowknife
+Yellowknife,Yellowknife
+Yellowknife,Yellowknife
+Yellowknife,Yellowknife
+Lisbon,Lisbon
+Lisbon,Lisbon
+Lisbon,Lisbon
+Lisbon,Lisbon
+Lisbon,Lisbon
+Lisbon,Lisbon
+Lisbon,Lisbon
+Berlin,Berlin
+Berlin,Berlin
+Berlin,Berlin
+Berlin,Berlin
+Berlin,Berlin
+Berlin,Berlin
+Berlin,Berlin
+Amsterdam,Amsterdam
+Amsterdam,Amsterdam
+Amsterdam,Amsterdam
+Amsterdam,Amsterdam
+Amsterdam,Amsterdam
+Amsterdam,Amsterdam
+Amsterdam,Amsterdam
+Rio de Janeiro,Rio de Janeiro
+Rio de Janeiro,Rio de Janeiro
+Rio de Janeiro,Rio de Janeiro
+Rio de Janeiro,Rio de Janeiro
+Rio de Janeiro,Rio de Janeiro
+Rio de Janeiro,Rio de Janeiro
+Rio de Janeiro,Rio de Janeiro
+Brasília,Brasília
+Brasília,Brasília
+Brasília,Brasília
+Brasília,Brasília
+Brasília,Brasília
+Brasília,Brasília
+Brasília,Brasília
+Vancouver,Vancouver
+Vancouver,Vancouver
+Vancouver,Vancouver
+Vancouver,Vancouver
+Vancouver,Vancouver
+Vancouver,Vancouver
+Vancouver,Vancouver
+Tucson,Tucson
+Tucson,Tucson
+Tucson,Tucson
+Tucson,Tucson
+Tucson,Tucson
+Tucson,Tucson
+Tucson,Tucson
+Madrid,Madrid
+Madrid,Madrid
+Madrid,Madrid
+Madrid,Madrid
+Madrid,Madrid
+Madrid,Madrid
+Madrid,Madrid
+Stockholm,Stockholm
+Stockholm,Stockholm
+Stockholm,Stockholm
+Stockholm,Stockholm
+Stockholm,Stockholm
+Stockholm,Stockholm
+Stockholm,Stockholm
+London,London
+London,London
+London,London
+London,London
+London,London
+London,London
+London,London
+Prague,Prague
+Prague,Prague
+Prague,Prague
+Prague,Prague
+Prague,Prague
+Prague,Prague
+Prague,Prague
+Toronto,Toronto
+Toronto,Toronto
+Toronto,Toronto
+Toronto,Toronto
+Toronto,Toronto
+Toronto,Toronto
+Toronto,Toronto
+Ottawa,Ottawa
+Ottawa,Ottawa
+Ottawa,Ottawa
+Ottawa,Ottawa
+Ottawa,Ottawa
+Ottawa,Ottawa
+Ottawa,Ottawa
+Winnipeg,Winnipeg
+Winnipeg,Winnipeg
+Winnipeg,Winnipeg
+Winnipeg,Winnipeg
+Winnipeg,Winnipeg
+Winnipeg,Winnipeg
+Winnipeg,Winnipeg
+Helsinki,Helsinki
+Helsinki,Helsinki
+Helsinki,Helsinki
+Helsinki,Helsinki
+Helsinki,Helsinki
+Helsinki,Helsinki
+Helsinki,Helsinki
+Copenhagen,Copenhagen
+Copenhagen,Copenhagen
+Copenhagen,Copenhagen
+Copenhagen,Copenhagen
+Copenhagen,Copenhagen
+Copenhagen,Copenhagen
+Copenhagen,Copenhagen
+São Paulo,São Paulo
+São Paulo,São Paulo
+São Paulo,São Paulo
+São Paulo,São Paulo
+São Paulo,São Paulo
+São Paulo,São Paulo
+São Paulo,São Paulo
+Rome,Rome
+Rome,Rome
+Rome,Rome
+Rome,Rome
+Rome,Rome
+Rome,Rome
+Rome,Rome
+Warsaw,Warsaw
+Warsaw,Warsaw
+Warsaw,Warsaw
+Warsaw,Warsaw
+Warsaw,Warsaw
+Warsaw,Warsaw
+Warsaw,Warsaw
+Fort Worth,Fort Worth
+Fort Worth,Fort Worth
+Fort Worth,Fort Worth
+Fort Worth,Fort Worth
+Fort Worth,Fort Worth
+Fort Worth,Fort Worth
+Fort Worth,Fort Worth
+Salt Lake City,Salt Lake City
+Salt Lake City,Salt Lake City
+Salt Lake City,Salt Lake City
+Salt Lake City,Salt Lake City
+Salt Lake City,Salt Lake City
+Salt Lake City,Salt Lake City
+Salt Lake City,Salt Lake City
+Prague,Prague
+Prague,Prague
+Prague,Prague
+Prague,Prague
+Prague,Prague
+Prague,Prague
+Prague,Prague
+Vienne,Vienne
+Vienne,Vienne
+Vienne,Vienne
+Vienne,Vienne
+Vienne,Vienne
+Vienne,Vienne
+Vienne,Vienne
+Dijon,Dijon
+Dijon,Dijon
+Dijon,Dijon
+Dijon,Dijon
+Dijon,Dijon
+Dijon,Dijon
+Dijon,Dijon
+Budapest,Budapest
+Budapest,Budapest
+Budapest,Budapest
+Budapest,Budapest
+Budapest,Budapest
+Budapest,Budapest
+Budapest,Budapest
+Orlando,Orlando
+Orlando,Orlando
+Orlando,Orlando
+Orlando,Orlando
+Orlando,Orlando
+Orlando,Orlando
+Orlando,Orlando
+Chicago,Chicago
+Chicago,Chicago
+Chicago,Chicago
+Chicago,Chicago
+Chicago,Chicago
+Chicago,Chicago
+Chicago,Chicago
+São José dos Campos,São José dos Campos
+São José dos Campos,São José dos Campos
+São José dos Campos,São José dos Campos
+São José dos Campos,São José dos Campos
+São José dos Campos,São José dos Campos
+São José dos Campos,São José dos Campos
+São José dos Campos,São José dos Campos
+Montréal,Montréal
+Montréal,Montréal
+Montréal,Montréal
+Montréal,Montréal
+Montréal,Montréal
+Montréal,Montréal
+Montréal,Montréal
+Paris,Paris
+Paris,Paris
+Paris,Paris
+Paris,Paris
+Paris,Paris
+Paris,Paris
+Paris,Paris
+Lyon,Lyon
+Lyon,Lyon
+Lyon,Lyon
+Lyon,Lyon
+Lyon,Lyon
+Lyon,Lyon
+Lyon,Lyon
+New York,New York
+New York,New York
+New York,New York
+New York,New York
+New York,New York
+New York,New York
+New York,New York
+Mountain View,Mountain View
+Mountain View,Mountain View
+Mountain View,Mountain View
+Mountain View,Mountain View
+Mountain View,Mountain View
+Mountain View,Mountain View
+Mountain View,Mountain View
+Buenos Aires,Buenos Aires
+Buenos Aires,Buenos Aires
+Buenos Aires,Buenos Aires
+Buenos Aires,Buenos Aires
+Buenos Aires,Buenos Aires
+Buenos Aires,Buenos Aires
+Buenos Aires,Buenos Aires
+Delhi,Delhi
+Delhi,Delhi
+Delhi,Delhi
+Delhi,Delhi
+Delhi,Delhi
+Delhi,Delhi
+Delhi,Delhi
+Porto,Porto
+Porto,Porto
+Porto,Porto
+Porto,Porto
+Porto,Porto
+Porto,Porto
+Porto,Porto
